@@ -1,5 +1,5 @@
- let user = 0 ;
- let computer = 0 ;
+ let user = 0;
+ let computer = 0;
  shootNumber = S = 2;
  let shoot = 1 ;
  let score1;
