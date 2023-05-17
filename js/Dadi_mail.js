@@ -7,11 +7,11 @@
  for (let x = 0 ; x < S ; x++) {
  score1 = Math.floor(Math.random()*6 +1);
  user = score1 ;
- console.log("user il tuo punteggio è :" + score1);
+ console.log("user your score is :" + score1);
 
  score2 = Math.floor(Math.random()*6 +1);
  computer = score2 ;
- console.log("computer il tuo punteggio è :" + score2 );
+ console.log("computer your score is :" + score2 );
 
  
  if ( user < computer ) {
